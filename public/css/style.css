@@ -1,0 +1,35 @@
+.navbar {
+    margin-bottom: 20px;
+}
+
+.wrapper{
+    margin-bottom:40px;
+}
+
+.submit-info{
+  padding-top; 50px;
+}
+
+
+footer{
+    width:100%;
+    postion:absolute;
+    bottom:0px;
+    left:0px;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height:40px;
+    color:white;
+    background:gray;
+
+}
+
+.footer p {
+    text-align:center;
+    padding-top:10px;
+}
